@@ -1,0 +1,7 @@
+--BASIC NOTES
+--Inspect Z Is a Swagmode Like Script Containing alot of scripts and stuff.
+--Inspect Z Is made By Aim_exe Do not DM other devs rather than him Related to this script
+--Get Your daily Key in Our discord server
+--Toggle key Is RightShift
+--SCRIPT--
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ozcc313/inspectZ/main/inspectZ.wtf'))()
